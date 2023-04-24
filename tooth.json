@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "tooth": "github.com/novelcraft/agenttemplate-c",
+    "version": "0.0.1",
+    "information": {
+        "name": "NovelCraft Agent Template for C/C++",
+        "description": "A template for creating a NovelCraft agent in C/C++",
+        "author": "NovelCraft"
+    },
+    "dependencies": {
+        "github.com/novelcraft/sdk-c": [
+            [
+                ">=0.0.0"
+            ]
+        ]
+    },
+    "placement": [
+        {
+            "source": "*",
+            "destination": "*"
+        }
+    ]
+}
